@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "風の声を聴きながら",
+  "base_artist": "三月のパンタシア",
+  "createdAt": "2026-02-21T19:45:53.936769Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風の声を聴きながら",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/01_風の声を聴きながら_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風の声を聴きながら",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/02_風の声を聴きながら_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風の声を聴きながら",
+      "artist": "三月のパンタシア",
+      "has_synced": false,
+      "path": "select/pl_01_風の声を聴きながら_三月のパンタシア.txt"
+    }
+  ]
+}
